@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeradorDePiadasAndroid</string>
+    <string name="gerar_piada">Gerar Piada</string>
+</resources>
